@@ -1,0 +1,17 @@
+body{
+    color: #000;
+}
+.Cointainer2 {
+    background-color: rgb(110, 19, 196);
+    margin: 10px;
+    display: flex;
+    }
+
+    .Cointaineritem{
+        background-color: aqua;
+        font-size: medium;
+        text-align: center;
+        width: 70px;
+        line-height: 70px;
+        margin: 10px;
+    }

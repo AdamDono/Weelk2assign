@@ -1,0 +1,76 @@
+
+body{
+	display:flex;
+	justify-content: left;
+	background: #06eee2;
+
+}
+
+.Name { height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 250px;
+}
+.Text {height: 50px;
+    width: 50px;
+    position: relative;
+    top: 50px;
+}
+.Sur{height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 200px;
+}
+
+.Sign{ height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 184px;
+}
+
+.Sign2{ height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 285px;
+}
+.Sign3{ height: 20px;
+    width: 20px;
+    position: absolute;
+    left: 290px;}
+.Home{ height: 20px;
+    width: 20px;
+    position: absolute;
+    right: 600px;
+}
+
+.About{height: 20px;
+    width: 20px;
+    position: absolute;
+    right: 550px;
+}
+.Work {height: 20px;
+    width: 20px;
+    position: absolute;
+    right: 500px;
+}
+
+.Resume{height: 20px;
+    width: 20px;
+    position: absolute;
+    right: 450px;
+}
+.Contact{height: 20px;
+    width: 20px;
+    position: absolute;
+    right: 390px;
+}
+
+.Imame { height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 550px;
+    bottom: 450px;
+
+}
+
+  
